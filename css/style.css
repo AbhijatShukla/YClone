@@ -196,6 +196,11 @@ h3{
     cursor: pointer;
 }
 
+.badge-value a{
+    color: #242424;
+    text-decoration:  none;
+}
+
 .badge-value.active{
     color: #fff;
     background: #242424;
